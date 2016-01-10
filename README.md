@@ -1,6 +1,12 @@
 # bluestacks
 Solution to the Programming question of bluestacks.
 
+I have used the diff Template Library(dtl) to find the edit distance between any two files.
+The link to the Github Page of the diff Template Library is https://github.com/cubicdaiya/dtl
+
+I have used this library because it provides the implementation of the diff function of the Linux shell in C++. Hence, the diff
+function used here is quite powerful and is the efficient way to compare large files.
+
 The algorithm for the solution is as follows - 
 
 
